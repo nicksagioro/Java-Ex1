@@ -1,2 +1,2 @@
-# Java-Ex1
+# JS-Ex1
 Exercício 1 
